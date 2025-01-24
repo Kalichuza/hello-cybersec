@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Hello CyberSec
+title: Hello, CyberSec
 ---
 
-# 👋 Welcome to **Hello CyberSec** 
+# 👋 Welcome to **Hello, CyberSec** 
 
 Your go-to hub for cybersecurity insights, hands-on tutorials, and expert resources to elevate your security skills.
 
