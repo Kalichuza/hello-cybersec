@@ -27,7 +27,7 @@ Your go-to hub for cybersecurity insights, hands-on tutorials, and expert resour
 
 ## 👨‍💻 About the Author
 
-Hi, I'm Kevin Cleary, a cybersecurity enthusiast dedicated to exploring and sharing knowledge in the ever-evolving world of cyber defense. Follow my journey as I dive into security research and practical applications.
+Hi, I'm Kalichuza, a cybersecurity enthusiast dedicated to exploring and sharing knowledge in the ever-evolving world of cyber defense. Follow my journey as I dive into security research and practical applications.
 
 ---
 
